@@ -1,7 +1,7 @@
 {
-    "name": "aaa",
+    "name": "dirty-word-filter",
     "version": "0.0.1",
-    "description": "Ebuild project",
+    "description": "A js lib for dirty word filter",
     "scripts": {
         "build": "webpack --config webpack-config/build.js --env.mode=script",
         "build:npm": "webpack --config webpack-config/build.js --env.mode=npm",
